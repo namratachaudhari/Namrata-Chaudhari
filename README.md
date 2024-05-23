@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Flutter 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Om-Bhandarkar](https://github.com/namratachaudhari)
+- 👨‍💻 All of my projects are available at (https://github.com/namratachaudhari)
 
 - 📫 How to reach me namratachaudhari230@gmail.com*
 
